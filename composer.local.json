@@ -1,0 +1,5 @@
+{
+  "require": {
+    "mediawiki/bootstrap": "~4.5"
+  }
+}
